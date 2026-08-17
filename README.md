@@ -211,3 +211,6 @@ A proposta foi aplicar conhecimentos de análise de requisitos, modelagem de dad
 ## 📄 Licença
 
 Projeto acadêmico. Caso seja necessária uma licença de código aberto para redistribuição, ela deve ser definida pelo autor antes da publicação.
+
+Login do banco: admin
+Senha: Senha123
